@@ -1,4 +1,4 @@
-# Mypackage
+# My go package
 
 ## List
 
